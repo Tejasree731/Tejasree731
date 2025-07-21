@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejasree Dasoju</h1>
-<h3 align="center">CSE Undergrad | MERN | AI & ML Explorer | DSA Enthusiast | Real-World Problem Solver</h3>
+<h3 align="center">CSE Undergrad | MERN | AI & ML Explorer | DSA Enthusiast | Loves solving Real-World problems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Firebase+%7C+Java+%7C+Python+%7C+OpenCV+%7C+MediaPipe+%7C+MERN+Stack+%7C+Node.js+%7C+Express" alt="Typing SVG" />
@@ -59,6 +59,6 @@
 
 ### ✨ Quote
 
-> *"Consistency is the key. Keep exploring and keep learning. Never let the light of your curiosity go out."* 🔥
+> *"Consistency is the key. Keep exploring and keep learning. Never let the light of your curiosity go out."* 
 
 ---
