@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejasree Dasoju</h1>
-<h3 align="center">CSE Undergrad | MERN Stack Dev | AI & ML Explorer | DSA Enthusiast | Loves Solving Real-World Problems</h3>
+<h3 align="center">CSE Undergrad | MERN | AI & ML Explorer | DSA Enthusiast | Loves Solving Real-World Problems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Firebase+%7C+Java+%7C+Python+%7C+OpenCV+%7C+MediaPipe+%7C+MERN+Stack+%7C+Node.js+%7C+Express" alt="Typing SVG" />
@@ -26,15 +26,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasreeDasoju&show_icons=true&theme=react" alt="Tejasree's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejasree731&show_icons=true&theme=react" alt="Tejasree's github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasreeDasoju&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasree731&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasreeDasoju&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasree731&layout=compact&theme=react" />
 </p>
 
 ---
