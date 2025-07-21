@@ -27,12 +27,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejasree731&show_icons=true&theme=react&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasree731&theme=react" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasree731&theme=react" width="48%" /> -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasree731&layout=compact&theme=react&langs_count=10" width="60%" />
-</div>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasree731&layout=compact&theme=react&langs_count=10" width="60%" /> -->
+<!-- </div> -->
 
 ---
 
