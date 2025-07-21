@@ -49,7 +49,7 @@
 ---
 
 ### 🔥 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TejasreeDasoju&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tejasree731&theme=react-dark)
 
 ---
 
