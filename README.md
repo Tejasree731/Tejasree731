@@ -59,6 +59,6 @@
 
 ### ✨ Quote
 
-> *"Consistency is the key. Keep exploring and keep learning. Never let the light of your curiosity go out."* 
+> *"Never let the light of your curiosity go out."* 
 
 ---
