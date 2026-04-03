@@ -26,13 +26,13 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejasree731&show_icons=true&theme=react&rank_icon=github&count_private=true" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tejasree731&show_icons=true&theme=react&rank_icon=github&count_private=true" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasree731&theme=react" width="48%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasree731&layout=compact&theme=react&langs_count=10" width="60%" />
-</div>
+</div> -->
 
 ---
 
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/tejasree-dasoju-9aa900310/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:tejasreed73@gmail.com" target="_blank">
+  <a href="mailto:tejasreedasoju7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
