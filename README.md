@@ -44,13 +44,13 @@
 
 ---
 
-### GitHub Space Shooter
+<!-- ### GitHub Space Shooter
 
 <p align="center">
 <img src="game.gif" width="600"/>
 </p>
 
----
+--- -->
 
 ### Connect With Me
 
@@ -70,3 +70,5 @@
 > *"Never let the light of your curiosity go out."* 
 
 ---
+
+![Tejasree731](game.gif)
