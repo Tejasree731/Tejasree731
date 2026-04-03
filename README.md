@@ -1,9 +1,9 @@
 <h1 align="center">Heyloo, I'm Teja Sree Dasoju</h1>
 <h3 align="center">CSE Undergrad</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Firebase+%7C+Java+%7C+Python+%7C+OpenCV+%7C+MediaPipe+%7C+MERN+Stack+%7C+Node.js+%7C+Express" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
@@ -18,7 +18,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,express,firebase,mongodb,opencv,c,github,git,vscode,react,vite,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,express,firebase,mongodb,opencv,c,github,git,vscode,react,vite,mysql,postgresql,gemini,groq,apis,razorpay" />
 </p>
 
 ---
